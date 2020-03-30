@@ -1,0 +1,6 @@
+framework module Pods_Afric_Ads_Afric_AdsUITests {
+  umbrella header "Pods-Afric Ads-Afric AdsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

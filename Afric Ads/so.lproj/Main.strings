@@ -1,0 +1,390 @@
+
+/* Class = "UILabel"; text = "or simply connects with"; ObjectID = "0ZP-tZ-574"; */
+"0ZP-tZ-574.text" = "or simply connects with";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "0jZ-0D-OZe"; */
+"0jZ-0D-OZe.text" = "*";
+
+/* Class = "UITextField"; placeholder = " New Password"; ObjectID = "10R-NS-cSU"; */
+"10R-NS-cSU.placeholder" = " New Password";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "1eL-pC-5fH"; */
+"1eL-pC-5fH.text" = "*";
+
+/* Class = "UILabel"; text = "or simply connects with"; ObjectID = "1yJ-We-uGD"; */
+"1yJ-We-uGD.text" = "or simply connects with";
+
+/* Class = "UILabel"; text = "Reset  Your Password"; ObjectID = "26k-5b-Uqr"; */
+"26k-5b-Uqr.text" = "Reset  Your Password";
+
+/* Class = "UITextField"; placeholder = " Iimayl id"; ObjectID = "3Gh-Cp-Zhe"; */
+"3Gh-Cp-Zhe.placeholder" = " Iimayl id";
+
+/* Class = "UILabel"; text = "Enter the Verification Code which we sent to mobile/email address"; ObjectID = "3U6-In-6UV"; */
+"3U6-In-6UV.text" = "Enter the Verification Code which we sent to mobile/email address";
+
+/* Class = "UILabel"; text = "A notification will be sent via e-mail/Text message upon your profile acceptance or rejection"; ObjectID = "3lE-Vq-egq"; */
+"3lE-Vq-egq.text" = "A notification will be sent via e-mail/Text message upon your profile acceptance or rejection";
+
+/* Class = "UILabel"; text = "Enter a New Password to Reset"; ObjectID = "3w4-24-itq"; */
+"3w4-24-itq.text" = "Enter a New Password to Reset";
+
+/* Class = "UITextField"; placeholder = "Lambarka guuritaanka / I-maylka Ii-maylka"; ObjectID = "42q-BM-hTH"; */
+"42q-BM-hTH.placeholder" = "Lambarka guuritaanka / I-maylka Ii-maylka";
+
+/* Class = "UIButton"; normalTitle = "Verify OTP"; ObjectID = "48Z-em-w2z"; */
+"48Z-em-w2z.normalTitle" = "Verify OTP";
+
+/* Class = "UILabel"; text = "Subscription-1(SP1):"; ObjectID = "4DW-cj-duI"; */
+"4DW-cj-duI.text" = "Subscription-1(SP1):";
+
+/* Class = "UILabel"; text = "Reset  Your Password"; ObjectID = "4Te-yK-cNZ"; */
+"4Te-yK-cNZ.text" = "Reset  Your Password";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "4nH-Pi-lbh"; */
+"4nH-Pi-lbh.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "4zS-i8-nry"; */
+"4zS-i8-nry.text" = "Verification";
+
+/* Class = "UILabel"; text = "New to AfricAds?"; ObjectID = "5C2-ww-G3q"; */
+"5C2-ww-G3q.text" = "New to AfricAds?";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "5T6-1p-nXw"; */
+"5T6-1p-nXw.text" = "*";
+
+/* Class = "UILabel"; text = "Enter a New Password to Reset"; ObjectID = "6Jn-0l-aHq"; */
+"6Jn-0l-aHq.text" = "Enter a New Password to Reset";
+
+/* Class = "UIButton"; normalTitle = "Matesr - Maamulka\n"; ObjectID = "7je-jg-1Ty"; */
+"7je-jg-1Ty.normalTitle" = "Matesr - Maamulka\n";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "7o7-eP-3hx"; */
+"7o7-eP-3hx.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Furaha"; ObjectID = "7vi-tk-g7H"; */
+"7vi-tk-g7H.placeholder" = "Furaha";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "8PL-gD-qCr"; */
+"8PL-gD-qCr.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Soo dejiso / sawir PDF Docx\n"; ObjectID = "96V-Bb-wAD"; */
+"96V-Bb-wAD.text" = "Soo dejiso / sawir PDF Docx\n";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "9MA-ZZ-14U"; */
+"9MA-ZZ-14U.title" = "Notification";
+
+/* Class = "UITextField"; placeholder = " Fayl"; ObjectID = "9O8-Iy-0dx"; */
+"9O8-Iy-0dx.placeholder" = " Fayl";
+
+/* Class = "UIButton"; normalTitle = "Kalasooc\n"; ObjectID = "AF3-VP-U1S"; */
+"AF3-VP-U1S.normalTitle" = "Kalasooc\n";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "Amx-Bz-zkJ"; */
+"Amx-Bz-zkJ.normalTitle" = "REGISTER";
+
+/* Class = "UILabel"; text = "SELECT LANGUAGE"; ObjectID = "B2u-Cb-M0p"; */
+"B2u-Cb-M0p.text" = "SELECT LANGUAGE";
+
+/* Class = "UITextField"; placeholder = "Lambarka khadka dhulka\n"; ObjectID = "B5h-Ao-CRH"; */
+"B5h-Ao-CRH.placeholder" = "Lambarka khadka dhulka\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bf0-vF-lFO"; */
+"Bf0-vF-lFO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Verify OTP"; ObjectID = "Bl7-kj-fdO"; */
+"Bl7-kj-fdO.normalTitle" = "Verify OTP";
+
+/* Class = "UITextField"; placeholder = "Lambarka guuritaanka / I-maylka Ii-maylka"; ObjectID = "BmF-jU-DCQ"; */
+"BmF-jU-DCQ.placeholder" = "Lambarka guuritaanka / I-maylka Ii-maylka";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Das-pO-5Zo"; */
+"Das-pO-5Zo.text" = "Label";
+
+/* Class = "UITextField"; placeholder = " Nambarka taleefonka"; ObjectID = "DeD-Db-4Qp"; */
+"DeD-Db-4Qp.placeholder" = " Nambarka taleefonka";
+
+/* Class = "UITextField"; placeholder = "Xulo shabakada taleefanka gacanta"; ObjectID = "HKL-a7-LZi"; */
+"HKL-a7-LZi.placeholder" = "Xulo shabakada taleefanka gacanta";
+
+/* Class = "UILabel"; text = "Enter the Verification Code which we sent to mobile/email address"; ObjectID = "I1y-7E-FFA"; */
+"I1y-7E-FFA.text" = "Enter the Verification Code which we sent to mobile/email address";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "I5N-Vz-Npv"; */
+"I5N-Vz-Npv.text" = "*";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "JpQ-ea-jRi"; */
+"JpQ-ea-jRi.normalTitle" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "Xaqiiji erayga sirta ah"; ObjectID = "LcC-eM-Ce8"; */
+"LcC-eM-Ce8.placeholder" = "Xaqiiji erayga sirta ah";
+
+/* Class = "UITextField"; placeholder = "Magaca buuxa\n"; ObjectID = "LzA-a1-QIW"; */
+"LzA-a1-QIW.placeholder" = "Magaca buuxa\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M8Y-TS-0Ec"; */
+"M8Y-TS-0Ec.text" = "Label";
+
+/* Class = "UITextField"; placeholder = " Magaca"; ObjectID = "Mb2-gR-Vzx"; */
+"Mb2-gR-Vzx.placeholder" = " Magaca";
+
+/* Class = "UIButton"; normalTitle = "Abuur Liis Ganacsi oo Cusub\n"; ObjectID = "Mwd-ta-5Nt"; */
+"Mwd-ta-5Nt.normalTitle" = "Abuur Liis Ganacsi oo Cusub\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NWz-7a-jTS"; */
+"NWz-7a-jTS.text" = "Label";
+
+/* Class = "UILabel"; text = "Enter a Mobile Number to Reset your password"; ObjectID = "NXB-Sm-qX5"; */
+"NXB-Sm-qX5.text" = "Enter a Mobile Number to Reset your password";
+
+/* Class = "UILabel"; text = "Xusuusin: halkaan guji si aad u abuurto qaybo ganacsi oo cusub\n"; ObjectID = "Os6-HK-pub"; */
+"Os6-HK-pub.text" = "Xusuusin: halkaan guji si aad u abuurto qaybo ganacsi oo cusub\n";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "PFR-ol-nC4"; */
+"PFR-ol-nC4.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "You can Login after Approval"; ObjectID = "Rqn-bj-RQy"; */
+"Rqn-bj-RQy.text" = "You can Login after Approval";
+
+/* Class = "UITextField"; placeholder = " Password"; ObjectID = "TV1-5l-HOx"; */
+"TV1-5l-HOx.placeholder" = " Password";
+
+/* Class = "UITextField"; text = "success"; ObjectID = "TV1-5l-HOx"; */
+"TV1-5l-HOx.text" = "success";
+
+/* Class = "UILabel"; text = "Heerka 2aad ee BTM, Banglore\n"; ObjectID = "Tfb-MM-zg8"; */
+"Tfb-MM-zg8.text" = "Heerka 2aad ee BTM, Banglore\n";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "Tic-Xi-oq9"; */
+"Tic-Xi-oq9.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "TkX-n3-Ww6"; */
+"TkX-n3-Ww6.text" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "UfV-vj-ODA"; */
+"UfV-vj-ODA.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "Usn-5K-1v7"; */
+"Usn-5K-1v7.text" = "*";
+
+/* Class = "UITextField"; placeholder = "Sirta cusub"; ObjectID = "VT4-vB-fpc"; */
+"VT4-vB-fpc.placeholder" = "Sirta cusub";
+
+/* Class = "UITextField"; placeholder = "magaca ganacsiga\n"; ObjectID = "WHt-Lt-AIa"; */
+"WHt-Lt-AIa.placeholder" = "magaca ganacsiga\n";
+
+/* Class = "UITextField"; placeholder = "Cinwaanka"; ObjectID = "WgF-De-dEJ"; */
+"WgF-De-dEJ.placeholder" = "Cinwaanka";
+
+/* Class = "UITextField"; placeholder = "Lambarka Taleefanka Gacanta\n"; ObjectID = "Wos-MC-guc"; */
+"Wos-MC-guc.placeholder" = "Lambarka Taleefanka Gacanta\n";
+
+/* Class = "UITextField"; placeholder = "Xaqiiji erayga sirta ah"; ObjectID = "XIM-FK-IMI"; */
+"XIM-FK-IMI.placeholder" = "Xaqiiji erayga sirta ah";
+
+/* Class = "UILabel"; text = "Vendor"; ObjectID = "Y6Y-wc-9OU"; */
+"Y6Y-wc-9OU.text" = "Vendor";
+
+/* Class = "UIButton"; normalTitle = "Liiska Ganacsiga Waxaa qoray\n"; ObjectID = "YDr-mH-Q8N"; */
+"YDr-mH-Q8N.normalTitle" = "Liiska Ganacsiga Waxaa qoray\n";
+
+/* Class = "UITextField"; placeholder = " Mobile Number/E-mail"; ObjectID = "YFO-yT-GwV"; */
+"YFO-yT-GwV.placeholder" = " Mobile Number/E-mail";
+
+/* Class = "UITextField"; text = "kar@gmail.com"; ObjectID = "YFO-yT-GwV"; */
+"YFO-yT-GwV.text" = "kar@gmail.com";
+
+/* Class = "UIButton"; normalTitle = "Gudbi"; ObjectID = "YUI-ll-x6p"; */
+"YUI-ll-x6p.normalTitle" = "Gudbi";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Yrh-xg-Pfa"; */
+"Yrh-xg-Pfa.text" = "Category";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZKP-WZ-hVg"; */
+"ZKP-WZ-hVg.text" = "Label";
+
+/* Class = "UILabel"; text = "REGISTER"; ObjectID = "aeP-By-0BP"; */
+"aeP-By-0BP.text" = "REGISTER";
+
+/* Class = "UILabel"; text = "Select Scale"; ObjectID = "afb-6N-ynK"; */
+"afb-6N-ynK.text" = "Select Scale";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "avU-Fz-maj"; */
+"avU-Fz-maj.text" = "*";
+
+/* Class = "UITabBarItem"; title = "My Booking"; ObjectID = "b8A-8X-sbe"; */
+"b8A-8X-sbe.title" = "My Booking";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "b9o-hV-TiW"; */
+"b9o-hV-TiW.text" = "Verification";
+
+/* Class = "UILabel"; text = "Enter the Verification Code which we sent to mobile/email address"; ObjectID = "bKt-VU-Vsr"; */
+"bKt-VU-Vsr.text" = "Enter the Verification Code which we sent to mobile/email address";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "c22-2B-8wa"; */
+"c22-2B-8wa.text" = "Remember me";
+
+/* Class = "UILabel"; text = "if unable to login please"; ObjectID = "cVo-QI-u44"; */
+"cVo-QI-u44.text" = "if unable to login please";
+
+/* Class = "UITextField"; placeholder = "Iimayl id"; ObjectID = "cik-1Y-RwX"; */
+"cik-1Y-RwX.placeholder" = "Iimayl id";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "dAg-w1-XW4"; */
+"dAg-w1-XW4.normalTitle" = "LOGIN";
+
+/* Class = "UITextField"; placeholder = "Lambarka guuritaanka / I-maylka Ii-maylka"; ObjectID = "dJf-x6-Yxx"; */
+"dJf-x6-Yxx.placeholder" = "Lambarka guuritaanka / I-maylka Ii-maylka";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "dZd-F0-qOn"; */
+"dZd-F0-qOn.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "e59-sD-OLe"; */
+"e59-sD-OLe.normalTitle" = "Reset Password";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "e8y-bF-YSP"; */
+"e8y-bF-YSP.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Register As"; ObjectID = "ePo-3e-k8c"; */
+"ePo-3e-k8c.text" = "Register As";
+
+/* Class = "UIButton"; normalTitle = "Xulo Fayl\n"; ObjectID = "eor-7L-01f"; */
+"eor-7L-01f.normalTitle" = "Xulo Fayl\n";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "erf-Uj-kRm"; */
+"erf-Uj-kRm.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "fRr-uE-TrY"; */
+"fRr-uE-TrY.text" = "*";
+
+/* Class = "UITextField"; placeholder = "Furaha"; ObjectID = "fkA-Av-B3C"; */
+"fkA-Av-B3C.placeholder" = "Furaha";
+
+/* Class = "UILabel"; text = "SELECT LANGUAGE"; ObjectID = "fm4-oe-3aq"; */
+"fm4-oe-3aq.text" = "SELECT LANGUAGE";
+
+/* Class = "UILabel"; text = "Enter a Mobile Number to Reset your password"; ObjectID = "g5K-LZ-PeU"; */
+"g5K-LZ-PeU.text" = "Enter a Mobile Number to Reset your password";
+
+/* Class = "UILabel"; text = "Registration Successfully"; ObjectID = "gSk-WZ-zjZ"; */
+"gSk-WZ-zjZ.text" = "Registration Successfully";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "gmA-cU-yP4"; */
+"gmA-cU-yP4.text" = "Verification";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "hfz-kj-ooJ"; */
+"hfz-kj-ooJ.text" = "Verification";
+
+/* Class = "UITextField"; placeholder = "Lambarka Canshuuraha Dowlada\n"; ObjectID = "img-YX-bso"; */
+"img-YX-bso.placeholder" = "Lambarka Canshuuraha Dowlada\n";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "jib-0d-OrM"; */
+"jib-0d-OrM.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = " Furaha"; ObjectID = "krf-SQ-9r4"; */
+"krf-SQ-9r4.placeholder" = " Furaha";
+
+/* Class = "UINavigationItem"; title = "Business Profile"; ObjectID = "ksw-QK-EhV"; */
+"ksw-QK-EhV.title" = "Business Profile";
+
+/* Class = "UITextField"; placeholder = "Nambarka taleefonka"; ObjectID = "lRo-kh-rPT"; */
+"lRo-kh-rPT.placeholder" = "Nambarka taleefonka";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "mLf-wL-3eq"; */
+"mLf-wL-3eq.title" = "Home";
+
+/* Class = "UILabel"; text = "Admin will Review Your Details and Account approval will be with in 24 Hrs"; ObjectID = "n61-Fx-4Yc"; */
+"n61-Fx-4Yc.text" = "Admin will Review Your Details and Account approval will be with in 24 Hrs";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "nMg-40-q8U"; */
+"nMg-40-q8U.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Select Subscription Plan"; ObjectID = "nfH-pY-Fbg"; */
+"nfH-pY-Fbg.text" = "Select Subscription Plan";
+
+/* Class = "UITextField"; placeholder = "Xulo shabakada taleefanka gacanta"; ObjectID = "nw9-kp-GpQ"; */
+"nw9-kp-GpQ.placeholder" = "Xulo shabakada taleefanka gacanta";
+
+/* Class = "UILabel"; text = "Admin"; ObjectID = "oWZ-Nh-BCE"; */
+"oWZ-Nh-BCE.text" = "Admin";
+
+/* Class = "UILabel"; text = "Reset  Your Password"; ObjectID = "p1j-NQ-cEd"; */
+"p1j-NQ-cEd.text" = "Reset  Your Password";
+
+/* Class = "UINavigationItem"; title = "Astaanta Ganacsiga\n"; ObjectID = "p36-iX-RHi"; */
+"p36-iX-RHi.title" = "Astaanta Ganacsiga\n";
+
+/* Class = "UIButton"; normalTitle = "Verify OTP"; ObjectID = "pNm-Us-h5N"; */
+"pNm-Us-h5N.normalTitle" = "Verify OTP";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "qDh-yK-feS"; */
+"qDh-yK-feS.text" = "User";
+
+/* Class = "UILabel"; text = "Reset  Your Password"; ObjectID = "qFf-Sh-az0"; */
+"qFf-Sh-az0.text" = "Reset  Your Password";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "rSZ-lo-fJs"; */
+"rSZ-lo-fJs.text" = "*";
+
+/* Class = "UILabel"; text = "Add Business Listing"; ObjectID = "rTc-wZ-IWm"; */
+"rTc-wZ-IWm.text" = "Add Business Listing";
+
+/* Class = "UITextField"; placeholder = "Magaca Maamulaha / Mulkiilaha\n"; ObjectID = "roD-0l-Bx5"; */
+"roD-0l-Bx5.placeholder" = "Magaca Maamulaha / Mulkiilaha\n";
+
+/* Class = "UIButton"; normalTitle = "Qaybta - Maamulka\n"; ObjectID = "ryH-nd-tha"; */
+"ryH-nd-tha.normalTitle" = "Qaybta - Maamulka\n";
+
+/* Class = "UILabel"; text = "(+91) 99515523467"; ObjectID = "seS-uB-y5w"; */
+"seS-uB-y5w.text" = "(+91) 99515523467";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "see-w8-Ewa"; */
+"see-w8-Ewa.text" = "*";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "tL0-ck-Yep"; */
+"tL0-ck-Yep.text" = "*";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "tb0-ZT-RtU"; */
+"tb0-ZT-RtU.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Verify OTP"; ObjectID = "tfV-DG-NPq"; */
+"tfV-DG-NPq.normalTitle" = "Verify OTP";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "uOS-Cj-prd"; */
+"uOS-Cj-prd.text" = "*";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "vE7-2y-jl1"; */
+"vE7-2y-jl1.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = " Conform Password"; ObjectID = "vJp-xz-3Iu"; */
+"vJp-xz-3Iu.placeholder" = " Conform Password";
+
+/* Class = "UINavigationItem"; title = "Create New Business Listing"; ObjectID = "vzI-Od-9Bz"; */
+"vzI-Od-9Bz.title" = "Create New Business Listing";
+
+/* Class = "UIButton"; normalTitle = "Liiska Ganacsiga Waxaa qoray\n"; ObjectID = "w16-rM-N73"; */
+"w16-rM-N73.normalTitle" = "Liiska Ganacsiga Waxaa qoray\n";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "wpU-ou-IgS"; */
+"wpU-ou-IgS.text" = "*";
+
+/* Class = "UITextField"; placeholder = "E-mayl id\n"; ObjectID = "wyE-rD-oWe"; */
+"wyE-rD-oWe.placeholder" = "E-mayl id\n";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "xN8-DL-9zi"; */
+"xN8-DL-9zi.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "example@gmail.com"; ObjectID = "yfI-sP-7FB"; */
+"yfI-sP-7FB.text" = "example@gmail.com";
+
+/* Class = "UILabel"; text = "Enter the Verification Code which we sent to mobile/email address"; ObjectID = "yxk-GL-cqk"; */
+"yxk-GL-cqk.text" = "Enter the Verification Code which we sent to mobile/email address";
+
+/* Class = "UITextField"; placeholder = " Search For Category"; ObjectID = "zNd-nY-cos"; */
+"zNd-nY-cos.placeholder" = " Search For Category";
+
+/* Class = "UITextField"; placeholder = "Lambarka Diiwaangelinta Rasmiga ah\n"; ObjectID = "ztb-YB-SlD"; */
+"ztb-YB-SlD.placeholder" = "Lambarka Diiwaangelinta Rasmiga ah\n";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "zvw-Qv-Z4w"; */
+"zvw-Qv-Z4w.normalTitle" = "REGISTER";

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Afric Ads.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+				<key>dateExpires</key>
+				<string>30/01/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+						<key>dateExpires</key>
+						<string>30/01/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V27UNGBW59</string>
+						<key>name</key>
+						<string>kundan kumar singh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+						<key>dateExpires</key>
+						<string>30/01/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManagerSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V27UNGBW59</string>
+						<key>name</key>
+						<string>kundan kumar singh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+						<key>dateExpires</key>
+						<string>30/01/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JGProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V27UNGBW59</string>
+						<key>name</key>
+						<string>kundan kumar singh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+						<key>dateExpires</key>
+						<string>30/01/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>LIHImageSlider.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V27UNGBW59</string>
+						<key>name</key>
+						<string>kundan kumar singh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+						<key>dateExpires</key>
+						<string>30/01/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SideMenuSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V27UNGBW59</string>
+						<key>name</key>
+						<string>kundan kumar singh</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DA3869E10A29E504FA97D1A4B1660687FB8A3CF2</string>
+						<key>dateExpires</key>
+						<string>30/01/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>TextFieldEffects.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V27UNGBW59</string>
+						<key>name</key>
+						<string>kundan kumar singh</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V27UNGBW59.techteam.AfricAds</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V27UNGBW59</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V27UNGBW59.techteam.AfricAds</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Afric Ads.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>650b9a04-bd5b-4b86-9cfe-8572ee725aea</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: techteam.AfricAds</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V27UNGBW59</string>
+				<key>name</key>
+				<string>kundan kumar singh</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
